@@ -2,5 +2,5 @@
 <Obfuscator>
   <Var name="InPath" value="." />
   <Var name="OutPath" value=".\Output" />
-  <Module file="$(InPath)\SharpHound.exe" />
+  <Module file=".\SharpHound.exe" />
 </Obfuscator>
