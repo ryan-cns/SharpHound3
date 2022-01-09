@@ -2,6 +2,5 @@
 <Obfuscator>
   <Var name="InPath" value="." />
   <Var name="OutPath" value=".\Output" />
-  <AssemblySearchPath path="$(Agent.BuildDirectory)\s\packages\Newtonsoft.Json.12.0.3\lib\net45"/>
   <Module file="$(InPath)\SharpHound.exe" />
 </Obfuscator>
